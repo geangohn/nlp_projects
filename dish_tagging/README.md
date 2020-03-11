@@ -1,7 +1,7 @@
 # Dish tagging
-**Author**: Ivan Maksimov (maksimiov.analytics@skoltech.ru, telegram - @Ivan_maksimov)
-**Topic**: Multiclass classification with NLP
-**Detailed topic description**: Tag dishes based on dish description and receipt
+**Author**: Ivan Maksimov (maksimiov.analytics@skoltech.ru, telegram - @Ivan_maksimov)   
+**Topic**: Multiclass classification with NLP   
+**Detailed topic description**: Tag dishes based on dish description and receipt   
 **Methodology**:
 
 - Fit baseline (Multinomial NB)
