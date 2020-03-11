@@ -1,0 +1,1 @@
+![Model architectire](model.png)
